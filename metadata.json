@@ -1,0 +1,6 @@
+{
+  "name": "Brandformer",
+  "description": "Brandformer helps businesses grow online with WordPress websites, SEO, Google Ads, Meta Ads, social media marketing, creative solutions and AI-powered digital marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
